@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá 👋 Bem-Vindo ao meu github
 
-<!--
-**VictorRMarcelino/VictorRMarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
-Here are some ideas to get you started:
+- 😀 Me chamo Victor Ramos Marcelino
+- 📚 Estou aprendendo sobre front-end e back-end
+- 📫 Linkedin: https://www.linkedin.com/in/victor-ramos-211851229/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRMarcelino&show_icons=true&theme=tokyonight)
+
+- 🧑‍💻Linguagens mais utilizadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRMarcelino&layout=compact)](https://github.com/VictorRMarcelino/github-readme-stats)
+
+<div align="center">
+<img src="https://www.deviantart.com/homahart/art/Killua-GodSpeed-GIF-439005420" width="700px" />
+</div>
