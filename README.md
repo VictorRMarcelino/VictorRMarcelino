@@ -13,7 +13,3 @@
 - 🧑‍💻Linguagens mais utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRMarcelino&layout=compact)](https://github.com/VictorRMarcelino/github-readme-stats)
-
-<div align="center">
-<img src="src/assets/gif/killua.gif" width="700px" />
-</div>
