@@ -5,9 +5,10 @@
 </div>
 
 - 😀 Me chamo Victor Ramos Marcelino
-- 📚 Estou aprendendo sobre front-end e back-end
+- 📚 Atualmente estou estudando sobre Java e, mais especificamente, o framework Spring Boot
+- 🏢 Estou trabalho há 2 anos na IPM Sistemas, fazendo uso de PHP e JavaScript principalmente
+- 🎓 Realizando a graduação no curso Sistemas de Informação na Unidavi (Rio do Sul)
 - 📫 Linkedin: https://www.linkedin.com/in/victor-ramos-211851229/
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRMarcelino&show_icons=true&theme=tokyonight)
 
 - 🧑‍💻Linguagens mais utilizadas:
